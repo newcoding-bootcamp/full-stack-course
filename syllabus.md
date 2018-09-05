@@ -12,9 +12,16 @@ Course Website (Canvas): invite URL shared in class
 
 1. Students must have an email acccount they can access during class. This is necessary to create a GitHub account, and access C9 (our cloud computing platform).
 
-## Optional
+## Personal Laptops (Optional)
 
-If you want to bring your own laptop (and power adapter) to class, you can. However, you will have additional resonsibility of installing development software.
+If you want to bring your own laptop (and power adapter) to class, you can. However, you will have additional resonsibility of installing development software:
+
+1. VS Code: https://code.visualstudio.com/download
+    * We use the following extensions in VS Code:
+      1. Rainbow Brackets
+      2. Live Server
+2. GitHub Desktop: https://desktop.github.com/
+3. node: https://nodejs.org/en/download/
 
 ## Grading
 
