@@ -14,6 +14,8 @@ Course Website (Canvas): invite URL shared in class
 
 ## Personal Laptops (Optional)
 
+NOTE: Instructor has admin password to install software on RCHS-issued laptops
+
 If you want to bring your own laptop (and power adapter) to class, you can. However, you will have additional resonsibility of installing development software:
 
 1. VS Code: https://code.visualstudio.com/download
