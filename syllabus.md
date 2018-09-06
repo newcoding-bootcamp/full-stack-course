@@ -1,4 +1,4 @@
-# Full-Stack Software Development
+# Syllabus: Full-Stack Software Development
 
 ## Instructor
 
