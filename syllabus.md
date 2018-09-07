@@ -33,7 +33,7 @@ If you want to bring your own laptop (and power adapter) to class, you can. Howe
 
 25% - Capstone Project: a simple, full-stack web application
 
-5% - Citizenship: staying on task, being a good student, and helping your peers
+10% - Citizenship: staying on task, being a good student, and helping your peers
 
 ## Expectations
 
