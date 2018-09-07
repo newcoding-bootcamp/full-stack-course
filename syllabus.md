@@ -12,6 +12,28 @@ Course Website (Canvas): invite URL shared in class
 
 1. Students must have an email acccount they can access during class. This is necessary to create a GitHub account, and access C9 (our cloud computing platform).
 
+## Class
+
+Wednesday Section: Wed 6:30 - 8:30p
+Thursday Section: Thurs 6:30 - 8:30p
+
+Each section has a five-minute break at 7:30p
+
+## Grading
+
+35% - Attendance: core instruction will take place during class, and each week builds upon the previous. It's important that you're present.
+
+30% - Homework: 3 hours of online tutorials per week. Homework will be assigned in Canvas (when it's up and running). Until then, it will be assigned via email.
+
+25% - Capstone Project: a simple, full-stack web application
+
+10% - Citizenship: staying on task, being a good student, and helping your peers
+
+## Expectations
+
+1. Arrive on time, log in to your computer and Canvas
+3. No trolling on the class Discord
+
 ## Personal Laptops (Optional)
 
 NOTE: Instructor has admin password to install software on RCHS-issued laptops
@@ -25,17 +47,3 @@ If you want to bring your own laptop (and power adapter) to class, you can. Howe
 2. GitHub Desktop: https://desktop.github.com/
 3. node: https://nodejs.org/en/download/
 
-## Grading
-
-35% - Attendance: core instruction will take place during class, and each week builds upon the previous. It's important that you're present.
-
-30% - Homework: 3 hours of online tutorials per week
-
-25% - Capstone Project: a simple, full-stack web application
-
-10% - Citizenship: staying on task, being a good student, and helping your peers
-
-## Expectations
-
-1. Arrive on time, log in to your computer and Canvas
-3. No trolling on the class Discord
