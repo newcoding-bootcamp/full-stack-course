@@ -19,7 +19,7 @@ Thursday Section: Thurs 6:30 - 8:30p
 
 Each section has a five-minute break at 7:30p
 
-## Absences Or Tardiness
+## Absences or Tardiness
 
 In this course, software development, and life in general, showing up is crucial to your success. If you miss three or more classes, then you may be dropped from the course. If you are going to be late or must miss class, it is the student's responsibility to email the instructor and explain your situation. All missed assignments and/or assessments must be made up within the next class session after returning to class.
 
