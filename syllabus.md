@@ -36,6 +36,7 @@ In this course, software development, and life in general, showing up is crucial
 ## Expectations
 
 1. Arrive on time, log in to your computer and Canvas
+2. Follow instructions the first time
 3. No trolling on the class Discord
 
 ## Personal Laptops (Optional)
