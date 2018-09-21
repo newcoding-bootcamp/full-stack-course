@@ -8,6 +8,10 @@ Email: inicholson@vcoe.org
 
 Course Website (Canvas): invite URL shared in class
 
+## Course Information
+
+This is an 18-week course, ending in late January
+
 ## Requirements
 
 1. Students must have an email acccount they can access during class. This is necessary to create a GitHub account, and access C9 (our cloud computing platform).
