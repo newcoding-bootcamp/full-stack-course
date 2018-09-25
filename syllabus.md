@@ -6,7 +6,7 @@ Ian Nicholson
 
 Email: inicholson@vcoe.org
 
-Course Website (Canvas): invite URL shared in class
+Course Canvas Portal: [vcoe.instructure.com](https://vcoe.instructure.com/) (Usernames & passwords distributed in class)
 
 ## About This Course
 
