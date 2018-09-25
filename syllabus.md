@@ -6,13 +6,13 @@ Ian Nicholson
 
 Email: inicholson@vcoe.org
 
-Course Canvas Portal: [vcoe.instructure.com](https://vcoe.instructure.com/) (Usernames & passwords distributed in class)
-
 ## About This Course
 
 Unlike Math, English, or History, this class is not required for you to graduate. It's a Career Technical Education (CTE) class, and it is a privilege to be able to take it. As such, students will be held to a higher standard. As a CTE class, this course is designed to prepare students for a career. Students will be given responsibilities, and will be expected to complete those tasks. If they have questions or are unable to complete a task, they are expected to reach out for help, as they would at a real job.
 
 ## Course Information
+
+Course Canvas Portal: [vcoe.instructure.com](https://vcoe.instructure.com/) (Usernames & passwords distributed in class)
 
 This is an 18-week course, ending in late January
 
